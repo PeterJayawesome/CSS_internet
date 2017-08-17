@@ -1,0 +1,187 @@
+*{
+  padding: 0px;
+  margin: 0px;
+}
+
+/*.pagetop{
+  padding-top: 10px;
+}*/
+.pagetop{
+  width: 970px;
+  margin: 0px auto;
+}
+#globe{
+  width: 60px;
+  display: inline-block;
+  position: relative;
+  top: 20px;
+}
+.pagetop p{
+  font-size: 32px;
+  display: inline-block;
+
+}
+#www{
+  display: block;
+  padding: 10px;
+  background: #25669F; /* For browsers that do not support gradients */
+  background: -webkit-linear-gradient(#25669F, #4D80AA, #25669F); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(#25669F, #4D80AA, #25669F); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(#25669F, #4D80AA, #25669F); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(#25669F, #4D80AA, #25669F); /* Standard syntax */
+  color: white
+}
+.background{
+  width: 970px;
+  background: lightgrey; /* For browsers that do not support gradients */
+  background: -webkit-linear-gradient(lightgrey, white 30%); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(lightgrey, white 30%); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(lightgrey, white 30%); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(lightgrey, white 30% 40%); /* Standard syntax (must be last) */
+  margin: 0px auto;
+}
+.sidebar{
+  display: inline-block;
+  width: 240px;
+  margin: 10px;
+  vertical-align: top;
+}
+.sidebar img{
+  width: 240px;
+  margin-top: 30px;
+
+}
+.sidetop{
+  padding-bottom: 30px;
+  border-bottom: 1px solid grey;
+}
+.sidetitle{
+  font-size: 24px;
+}
+.button{
+  padding: 10px 20px;
+  background: #8EB4D3; /* For browsers that do not support gradients */
+  background: -webkit-linear-gradient(#8EB4D3, #25679F); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(#8EB4D3, #25679F); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(#8EB4D3, #25679F); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(#8EB4D3, #25679F); /* Standard syntax */
+  color: white;
+  display: block;
+  margin: 5px auto;
+  width: 200px;
+  text-align: center;
+  border: none;
+  border-radius: 10px;
+  box-shadow: 3px 3px 5px grey;
+}
+#orangebutton{
+  background: orange; /* For browsers that do not support gradients */
+  background: -webkit-linear-gradient(lightgrey, orange); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(lightgrey, orange); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(lightgrey,orange); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(lightgrey, orange); /* Standard syntax */
+}
+#adstring{
+  width: 240px;
+  margin: -330px 0px 0px 0px;
+  text-align: center;
+  font-size: 24px;
+  color: white;
+}
+#ninja{
+  display: block;
+  width: 150px;
+  margin: 0px auto;
+}
+#adbutton{
+  background: #00C2DF; /* For browsers that do not support gradients */
+  background: -webkit-linear-gradient(lightgrey, #00C2DF); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(lightgrey, #00C2DF); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(lightgrey,#00C2DF); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(lightgrey, #00C2DF); /* Standard syntax */
+  width: 180px;
+  position: relative;
+  z-index: 1;
+  box-shadow: 2px 2px 5px black;
+}
+.content{
+  margin: 0px 20px;
+  padding: 0px 10px;
+  width: 600px;
+  display: inline-block;
+}
+.ctop{
+  padding-bottom: 10px;
+  border-bottom: 1px solid grey;
+}
+.ctop p{
+  font-size: 20px;
+  display: inline-block;
+  vertical-align: top;
+}
+#home{
+  display: inline-block;
+  height: 20px;
+  vertical-align: top;
+}
+#phone{
+  display: inline-block;
+  height: 40px;
+  margin-left: 350px;
+  vertical-align: top;
+}
+.contact{
+  display: inline-block;
+  width: 125px;
+  height: 40px;
+  text-align: right;
+
+}
+.contact p{
+  margin: 0px;
+  font-size: 10px;
+}
+#number{
+  font-size: 20px;
+}
+.title{
+  font-size: 22px;
+}
+.content ul{
+  margin-left: 40px;
+}
+#server{
+  height: 100px;
+  display: block;
+  margin: auto;
+}
+.content ol{
+  margin-left: 40px;
+}
+.bluebox{
+  padding: 5px;
+  border-top: 3px solid blue;
+  border-left: 3px solid blue;
+  border-right: 3px solid blue;
+}
+.bluebox img{
+  height: 75px;
+  display: inline-block;
+  margin: 10px;
+}
+.bluebox a{
+  text-decoration:none;
+}
+.big3{
+  display: inline-block;
+  width: 470px;
+}
+.blue{
+  color: #22659E;
+}
+.aqua{
+  color: DarkTurquoise;
+}
+.red{
+  color: red;
+}
